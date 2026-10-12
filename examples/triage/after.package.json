@@ -1,0 +1,8 @@
+{
+  "name": "fictional-invoicing-app",
+  "version": "1.0.0",
+  "dependencies": {
+    "@demo/billing-sdk": "^2.0.0",
+    "@demo/date-kit": "1.2.1"
+  }
+}

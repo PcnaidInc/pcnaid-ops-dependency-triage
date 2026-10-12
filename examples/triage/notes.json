@@ -1,0 +1,16 @@
+[
+  {
+    "package": "@demo/billing-sdk",
+    "version": "2.0.0",
+    "text": "# Synthetic release 2.0.0\nBreaking: removed `createInvoice`; migrate to `invoices.create`.\nRequires Node.js 22 or later.",
+    "source": "user_supplied",
+    "url": "https://example.com/demo/billing-sdk/releases/2.0.0"
+  },
+  {
+    "package": "@demo/date-kit",
+    "version": "1.2.1",
+    "text": "# Synthetic release 1.2.1\nFixed an internal formatting edge case. No public API change is declared in this fictional note.",
+    "source": "user_supplied",
+    "url": "https://example.com/demo/date-kit/releases/1.2.1"
+  }
+]

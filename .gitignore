@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+private-signing-keys/
+local-output/
+reports/
+.DS_Store
+Thumbs.db
+*.log
